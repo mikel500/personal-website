@@ -1,0 +1,26 @@
+{
+  "name": "mikel-illan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "nuxt-i18n": "^6.27.0",
+    "particles-bg-vue": "^1.3.5",
+    "vue-lazy-hydration": "^2.0.0-beta.4",
+    "vue-svg-loader": "^0.16.0"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.32.8",
+    "sass-loader": "10"
+  }
+}

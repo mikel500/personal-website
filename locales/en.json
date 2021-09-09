@@ -1,0 +1,30 @@
+{
+  "home": {
+    "title_job": "WEB DEVELOPER",
+    "mikel_description": "Each project is unique and this implies that each design is special. If you have an idea or project, I’ll help you to make it happen.",
+    "cta_text": "Let's Talk!",
+    "technologies_title": "Technologies",
+    "technologies_subtitle": "I'm a full stack developer with experience and training in html, css, JavaScript, and Vie, Nuxt and Bulma(css) frameworks. In regards to back languages, I have used PHP, Laravel and Node. I have also background in data bases using MySQL and PostgreSQL.",
+    "title_about_me": "About me...",
+    "background_title": "Education and Skills",
+    "background_content": [
+      "Dual certificate in web app development",
+      "Degree in Political Science and Public Entities, Autonomous University of Barcelona.",
+      "I am a responsible person, someone who pays attention to details, and who enjoys working in changing environments with new technologies. I am passionate about being a programmer because it allows me to challenge myself solving problems while being creative."
+    ],
+    "clients_title": "Customer experience",
+    "clients_content": [
+      "I work with clients from different fields (tourism, healthcare, entertainment, real estate...) and entities (associations, start-up or spin-off companies, SME...).",
+      "During my career I have also developed projects with WordPress (WP). I have designed, created and validated websites with WP from scratch, customizing themes to the client expectations and needs."
+    ],
+    "entrepreneur_title": "Entrepreneur Project",
+    "enterpreneur_content": "My experience as a co-founder of a Real State digital project in Europe has helped me develop my marketing and business skills. I can help you to achieve an efficient, nice and practical Web site / Application, ready to boost your business. Web positioning and how fast contents are download are items that a good programmer needs to take into account.",
+    "project_title": "Each project is unique",
+    "project_content": [
+      "Throughout my career I have met different types of collaborators, and I think that the most important thing is to listen and understand what each one needs, because all projects are unique. A good programmer needs to be skilled, not only at programming, but able to understand the motivations of clients, take into account the user’s experience/interaction with the tools and add business and communication perspectives to build a whole approach.",
+      "Whether you need to improve your website, set up a new one, or create an application, I'll be happy to help you!"
+    ],
+    "web_design": "© 2021 — Web designed by Mikel Illán using Nuxt",
+    "mikel_alt": "Mikel Illán Ferragut"
+  }
+}

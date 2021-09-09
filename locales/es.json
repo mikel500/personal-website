@@ -1,0 +1,31 @@
+{
+  "home": {
+    "title_job": "WEB DEVELOPER",
+    "mikel_description": "Mi nombre es Mikel Illán, soy un apasionado del desarrollo de aplicaciones y páginas web. Cada proyecto es único y eso comporta que cada trabajo sea especial. Si tienes alguna idea o proyecto en mente, te ayudo a ponerlo en marcha.",
+    "cta_text": "¿Hablamos?",
+    "technologies_title": "Tecnologías",
+    "technologies_subtitle": "Soy desarrollador full stack, dispongo de formación y experiencia en html, css, scss, JavaScript, y los frameworks Bulma(css), Vue y Nuxt. Por lo que respecta al back, trabajo con PHP, Laravel y Node. También tengo experiencia y formación en bases de datos MySQL y PostgreSQL.",
+    "title_about_me": "Un poco sobre mi...",
+    "background_title": "Formación y Aptitudes",
+    "background_content": [
+      "Título dual de desarrollo de aplicaciones web.",
+      "Universidad Autónoma de Barcelona, grado en Ciencias Políticas y Gestión Pública.",
+      "Me considero una persona responsable, atenta al detalle, que trabaja a gusto en entornos cambiantes y nuevas tecnologías y que disfruta de las dinámicas de la programación como la resolución de problemas o la creatividad."
+    ],
+    "clients_title": "Experiencia con clientes",
+      "clients_content": [
+        "Trabajo con clientes de diferentes sectores (turismo, salud, ocio, inmobiliaria…) y entidades (asociaciones, empresas start-up o spin-off, Pymes…).",
+        "Durante mi actividad como desarrollador también he realizado proyectos con WordPress (WP). He montado y validado páginas web con WP desde 0, desde el diseño hasta su publicación, adaptando los temas a las características del proyecto para que quede al gusto del cliente."
+      ],
+      "entrepreneur_title": "Proyecto emprendedor",
+      "enterpreneur_content": "Fundé un proyecto digital en Europa en el área del alquiler vacacional, tengo nociones de marketing y ventas y puedo aconsejarte durante tu proceso para conseguir que tus plataformas sean eficientes, estéticas y prácticas. El posicionamiento y la rapidez con la que se renderizan los contenidos son elementos que un buen desarrollador debe tener en cuenta.",
+      "project_title": "Cada proyecto es único",
+      "project_content": [
+        "A lo largo de mi trayectoria me he encontrado con diferentes tipos de colaboradores, al final lo importante es escuchar y entender qué necesita cada uno, porque todos los proyectos son únicos. Un buen programador debe ser algo más que bueno con el desarrollo, tiene que poder entender las motivaciones y objetivo de su cliente, pensar en la experiencia de los usuarios que van a usar esas tecnologías – su interacción – y ponerle perspectivas de negocio y comunicación para formar un todo.",
+        "Tanto si necesitas revisar tu web o montar una nueva, como crear una aplicación, ¡Estaré encantado de ayudarte!"
+      ],
+      "web_design": "© 2021 — Web diseñada por Mikel Illán utilizando Nuxt",
+      "mikel_alt": "Mikel Illán Ferragut"
+    }
+}
+
