@@ -26,5 +26,6 @@
     ],
     "web_design": "© 2021 — Web designed by Mikel Illán using Nuxt",
     "mikel_alt": "Mikel Illán Ferragut"
-  }
+  },
+  "error-404": "GO HOME"
 }

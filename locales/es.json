@@ -13,19 +13,19 @@
       "Me considero una persona responsable, atenta al detalle, que trabaja a gusto en entornos cambiantes y nuevas tecnologías y que disfruta de las dinámicas de la programación como la resolución de problemas o la creatividad."
     ],
     "clients_title": "Experiencia con clientes",
-      "clients_content": [
-        "Trabajo con clientes de diferentes sectores (turismo, salud, ocio, inmobiliaria…) y entidades (asociaciones, empresas start-up o spin-off, Pymes…).",
-        "Durante mi actividad como desarrollador también he realizado proyectos con WordPress (WP). He montado y validado páginas web con WP desde 0, desde el diseño hasta su publicación, adaptando los temas a las características del proyecto para que quede al gusto del cliente."
-      ],
-      "entrepreneur_title": "Proyecto emprendedor",
-      "enterpreneur_content": "Fundé un proyecto digital en Europa en el área del alquiler vacacional, tengo nociones de marketing y ventas y puedo aconsejarte durante tu proceso para conseguir que tus plataformas sean eficientes, estéticas y prácticas. El posicionamiento y la rapidez con la que se renderizan los contenidos son elementos que un buen desarrollador debe tener en cuenta.",
-      "project_title": "Cada proyecto es único",
-      "project_content": [
-        "A lo largo de mi trayectoria me he encontrado con diferentes tipos de colaboradores, al final lo importante es escuchar y entender qué necesita cada uno, porque todos los proyectos son únicos. Un buen programador debe ser algo más que bueno con el desarrollo, tiene que poder entender las motivaciones y objetivo de su cliente, pensar en la experiencia de los usuarios que van a usar esas tecnologías – su interacción – y ponerle perspectivas de negocio y comunicación para formar un todo.",
-        "Tanto si necesitas revisar tu web o montar una nueva, como crear una aplicación, ¡Estaré encantado de ayudarte!"
-      ],
-      "web_design": "© 2021 — Web diseñada por Mikel Illán utilizando Nuxt",
-      "mikel_alt": "Mikel Illán Ferragut"
-    }
+    "clients_content": [
+      "Trabajo con clientes de diferentes sectores (turismo, salud, ocio, inmobiliaria…) y entidades (asociaciones, empresas start-up o spin-off, Pymes…).",
+      "Durante mi actividad como desarrollador también he realizado proyectos con WordPress (WP). He montado y validado páginas web con WP desde 0, desde el diseño hasta su publicación, adaptando los temas a las características del proyecto para que quede al gusto del cliente."
+    ],
+    "entrepreneur_title": "Proyecto emprendedor",
+    "enterpreneur_content": "Fundé un proyecto digital en Europa en el área del alquiler vacacional, tengo nociones de marketing y ventas y puedo aconsejarte durante tu proceso para conseguir que tus plataformas sean eficientes, estéticas y prácticas. El posicionamiento y la rapidez con la que se renderizan los contenidos son elementos que un buen desarrollador debe tener en cuenta.",
+    "project_title": "Cada proyecto es único",
+    "project_content": [
+      "A lo largo de mi trayectoria me he encontrado con diferentes tipos de colaboradores, al final lo importante es escuchar y entender qué necesita cada uno, porque todos los proyectos son únicos. Un buen programador debe ser algo más que bueno con el desarrollo, tiene que poder entender las motivaciones y objetivo de su cliente, pensar en la experiencia de los usuarios que van a usar esas tecnologías – su interacción – y ponerle perspectivas de negocio y comunicación para formar un todo.",
+      "Tanto si necesitas revisar tu web o montar una nueva, como crear una aplicación, ¡Estaré encantado de ayudarte!"
+    ],
+    "web_design": "© 2021 — Web diseñada por Mikel Illán utilizando Nuxt",
+    "mikel_alt": "Mikel Illán Ferragut"
+  },
+  "error-404": "Volver a la página de inicio"
 }
-
