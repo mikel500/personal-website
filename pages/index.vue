@@ -239,6 +239,8 @@ export default {
 </script>
 
 <style lang="scss">
+@use "sass:math";
+
 header {
   background-color: #7f5a83;
   background-image: linear-gradient(#030203 0%, #0d324d 74%);
@@ -381,7 +383,7 @@ $sizes: 10, 20, 30, 40, 50, 55, 60, 65, 70, 80, 90, 100;
         width: 0px;
       }
       to {
-        width: percentage($size / 100);
+        width: percentage(math.div($size, 100));
       }
     }
   }
