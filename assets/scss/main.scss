@@ -186,7 +186,7 @@ template {
 }
 
 /* MARGIN AND PADDING HELPERS */
-$spaceamounts: (0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 75, 100);
+$spaceamounts: (0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 60, 75, 100);
 $sides: (top, bottom, left, right);
 @each $space in $spaceamounts {
   @each $side in $sides {
@@ -279,17 +279,27 @@ $sides: (top, bottom, left, right);
 .flex {
   display: flex;
 }
+
+.flex-col {
+  flex-direction: column;
+}
+
 .flex-start {
   align-items: flex-start;
 }
+
 .flex-center {
   justify-content: center;
+}
+.flex-align-center {
+  align-items: center;
 }
 .flex-center-center {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -317,4 +327,14 @@ h3 {
   @media (max-width: 1023px) {
     font-size: 12px;
   }
+}
+
+.w-full {
+  width: 100%;
+}
+.m-auto {
+  margin: auto;
+}
+.inline-block {
+  display: inline-block;
 }
