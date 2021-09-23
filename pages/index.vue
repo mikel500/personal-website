@@ -124,21 +124,19 @@
           </LazyHydrate>
         </client-only>
       </section>
-      <LazyHydrate never>
-        <section class="wrapper content-fade padding-md">
-          <h2 class="title"> {{ $t('home.project_title') }} </h2>
-          <p> {{ $t('home.project_content[0]') }} </p>
-          <p> {{ $t('home.project_content[1]') }} </p>
-          <div class="has-text-centered pt-50 pb-50">
-            <a
-              href="mailto:mikelmif@gmail.com"
-              class="cta"
-            >
-              {{ $t('home.cta_text')}}
-            </a>
-          </div>
-        </section>
-      </LazyHydrate>
+      <section class="wrapper content-fade padding-md">
+        <h2 class="title"> {{ $t('home.project_title') }} </h2>
+        <p> {{ $t('home.project_content[0]') }} </p>
+        <p> {{ $t('home.project_content[1]') }} </p>
+        <div class="has-text-centered pt-50 pb-50">
+          <a
+            href="mailto:mikelmif@gmail.com"
+            class="cta"
+          >
+            {{ $t('home.cta_text')}}
+          </a>
+        </div>
+      </section>
       <LazyHydrate never>
         <social-media
           title="Mikel Illán - Web Developer"
@@ -163,7 +161,7 @@ import SocialMedia from "@/components/SocialMedia.vue"
 import LazyHydrate from 'vue-lazy-hydration'
 
 export default {
-  name: "Mikel-Illán",
+  name: "index",
   components: { Wave, SocialMedia, LazyHydrate },
   data () {
     return {
